@@ -1,0 +1,1 @@
+geth --maxpeers 25 --genesis NCCUISLAB_genisis.json --networkid 104753 --port 33333 --rpc --rpccorsdomain "*" --datadir "~/Desktop/ethereum" --ipcpath "/Users/peter087744982/Library/Ethereum/geth.ipc"
